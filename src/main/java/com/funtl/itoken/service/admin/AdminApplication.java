@@ -1,4 +1,4 @@
-package com.funtl.itoken.admin;
+package com.funtl.itoken.service.admin;
 
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
